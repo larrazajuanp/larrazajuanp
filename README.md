@@ -1,5 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I´m Juan Pablo, from Buenos Aires - Argentina
+<br />
 <a href="https://twitter.com/chimpahouse" target="_blank">
   <img align="left" alt="Juan Pablo Larraza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,6 +23,12 @@ In the nearly future I would like to collaborate with new members of differents 
 - 🤔 I’m looking for a job in IT industry.
 - 📫 How to reach me: https://jplarraza-cv.netlify.app/ or larrazajuanp@gmail.com
 - ⚡ Fun fact: My house is like a shelter for rescue dogs, so if you wanna help with that purpose I will be grateful - [twitter](https://twitter.com/ManosHuellas)
+
+<br />
+
+
+
+
 <!--
 **larrazajuanp/larrazajuanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
