@@ -10,7 +10,7 @@
 
 <br />
 
-I´m [Juan Pablo Larraza](https://jplarraza-cv.netlify.app/) a UX Developer, my main skill is UX/UI Designer and I´m learning Web Development at Punch IT community. I work as a freelancer but I would like to found a job in a tech company.
+I´m [Juan Pablo Larraza](https://jplarraza-cv.netlify.app/) a UX Designer, my main skill is UX/UI Designer. I am looking for a freelance job in Web3 as a UX Designer, I think I can help these new era to have a clear communication for newbies.
 
 In the nearly future I would like to collaborate with new members of differents communities, so I can help them with the first steps.
 
@@ -18,9 +18,9 @@ In the nearly future I would like to collaborate with new members of differents 
 
 <br />
 
-- 🔭 I’m currently working as a freelance doing UX/UI.
-- 🌱 I’m currently learning React and NodeJS.
-- 🤔 I’m looking for a job in IT industry.
+- 🔭 I’m currently working as a  UX/UI Designer on Alprestamo.
+- 🌱 I’m currently learning Web3 & Blockchain.
+- 🤔 I’m looking to keep honing my skills as a designer and help into community of web3.
 - 📫 How to reach me: https://jplarraza-cv.netlify.app/ or larrazajuanp@gmail.com
 - ⚡ Fun fact: My house is like a shelter for rescue dogs, so if you wanna help with that purpose I will be grateful - [twitter](https://twitter.com/ManosHuellas)
 
